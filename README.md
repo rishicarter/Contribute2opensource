@@ -1,5 +1,5 @@
 # Contribute2opensource
-Open Source Links of AI related tools/companies where one can contribute to.
+Open Source Links of AI/ML related tools/companies where one can contribute to.
 
 ---
 
@@ -32,6 +32,9 @@ Tool | Description | Category
 [Makesense.ai](https://github.com/SkalskiP/make-sense) | A free to use online tool for labelling photos. | Computer Vision
 [Audino](https://github.com/midas-research/audino) | Open source audio annotation tool for humans | Audio
 [EchoML](https://github.com/ritazh/EchoML) | A web app to play, visualize, and annotate your audio files for machine learning | Audio
+[ModAL](https://github.com/modAL-python/modAL) | A modular active learning framework for Python | Active Learning
+[Libact](https://github.com/ntucllab/libact) | Pool-based active learning in Python | Active Learning
+[ALiPy](https://github.com/NUAA-AL/ALiPy) | Active Learning in Python is an active learning python toolbox, which allows users to conveniently evaluate, compare and analyze the performance of active learning methods. | Active learning
 
 <p><a href="#table-of-contents">Back to Contents</a></p>
 
