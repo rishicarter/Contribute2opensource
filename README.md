@@ -10,6 +10,7 @@ Open Source Links of AI/ML related tools/companies where one can contribute to.
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#data-labeling">Data Labeling Tools</a></li>
+    <li><a href="#mlops">MLops Tools</a></li>
     <li><a href="#football">Football Data Handling Tools</a></li>
   </ol>
 </details>
@@ -39,6 +40,15 @@ Tool | Description | Category
 <p><a href="#table-of-contents">Back to Contents</a></p>
 
 ---
+<h2 id="mlops">MLops Tools</h2> 
+
+Tool | Description | Category
+--- | --- | ---
+[Clear ML](https://github.com/allegroai/clearml) | Auto-Magical CI/CD to streamline your ML workflow. | General
+
+<p><a href="#table-of-contents">Back to Contents</a></p>
+
+---
 <h2 id="football">Football Data Handling Tools</h2> 
 
 Tool | Description | Category
@@ -49,4 +59,3 @@ Tool | Description | Category
 <p><a href="#table-of-contents">Back to Contents</a></p>
 
 ---
-
