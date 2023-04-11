@@ -11,6 +11,7 @@ Open Source Links of AI/ML related tools/companies where one can contribute to.
   <ol>
     <li><a href="#data-labeling">Data Labeling Tools</a></li>
     <li><a href="#mlops">MLops Tools</a></li>
+    <li><a href="#data-generate">Data Generation Tools</a></li>
     <li><a href="#football">Football Data Handling Tools</a></li>
   </ol>
 </details>
@@ -45,6 +46,17 @@ Tool | Description | Category
 Tool | Description | Category
 --- | --- | ---
 [Clear ML](https://github.com/allegroai/clearml) | Auto-Magical CI/CD to streamline your ML workflow. | General
+
+<p><a href="#table-of-contents">Back to Contents</a></p>
+
+---
+<h2 id="mlops">Data Generation Tools</h2> 
+
+Tool | Description | Category
+--- | --- | ---
+[json-schema-faker](https://github.com/json-schema-faker/json-schema-faker) | JSON-Schema + fake data generators | General
+[generatedata](https://github.com/benkeen/generatedata) | A powerful, feature-rich, random test data generator | General
+[Faker](https://github.com/joke2k/faker) | Faker is a Python package that generates fake data for you | General
 
 <p><a href="#table-of-contents">Back to Contents</a></p>
 
