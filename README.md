@@ -50,7 +50,7 @@ Tool | Description | Category
 <p><a href="#table-of-contents">Back to Contents</a></p>
 
 ---
-<h2 id="mlops">Data Generation Tools</h2> 
+<h2 id="data-generate">Data Generation Tools</h2> 
 
 Tool | Description | Category
 --- | --- | ---
