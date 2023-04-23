@@ -12,10 +12,10 @@ Open Source Links of AI/ML related tools/companies where one can contribute to.
     <li><a href="#data-labeling">Data Labeling Tools</a></li>
     <li><a href="#mlops">MLops Tools</a></li>
     <li><a href="#data-generate">Data Generation Tools</a></li>
+    <li><a href="#data-viz">Data Visualization Tools</a></li>
     <li><a href="#football">Football Data Handling Tools</a></li>
   </ol>
 </details>
-
 
 ---
 <h2 id="data-labeling">Data Labeling Tools</h2>
@@ -57,6 +57,16 @@ Tool | Description | Category
 [json-schema-faker](https://github.com/json-schema-faker/json-schema-faker) | JSON-Schema + fake data generators | General
 [generatedata](https://github.com/benkeen/generatedata) | A powerful, feature-rich, random test data generator | General
 [Faker](https://github.com/joke2k/faker) | Faker is a Python package that generates fake data for you | General
+
+<p><a href="#table-of-contents">Back to Contents</a></p>
+
+---
+<h2 id="data-viz">Data Visualization Tools</h2> 
+
+Tool | Description | Category
+--- | --- | ---
+[Mito](https://github.com/mito-ds/monorepo) | Mito is a spreadsheet that lives inside your JupyterLab notebooks. It allows you to edit Pandas dataframes like an Excel file, and generates Python code that corresponds to each of your edits. | General
+[Pandas Profiling](https://github.com/ydataai/ydata-profiling) | Create HTML profiling reports from pandas DataFrame objects | General
 
 <p><a href="#table-of-contents">Back to Contents</a></p>
 
